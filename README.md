@@ -52,4 +52,4 @@ CREATE TABLE IF NOT EXISTS `quiz_results` (
     INDEX `idx_created` (`created_at`)
 ) ENGINE=InnoDB DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 После этого нажмите кнопку "Вперед" (Execute) внизу страницы и должно появиться сообщение: "Запрос выполнен успешно"
-7. Теперь через OSPanel запустите -smartquiz.ru 
+7. Теперь через OSPanel запустите -smarttquiz.ru 
